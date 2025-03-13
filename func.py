@@ -10,4 +10,4 @@ for i in range(cantidad):
     valores.append(digito)  # ✅ Agregar el número ingresado
 
 # Llamar a la función con los valores desempaquetados
-print(f"Al sumar los {cantidad} numeros nos da como resultado:", sumar(*valores))
+print(f"Al sumar los {cantidad} numeros es:", sumar(*valores))

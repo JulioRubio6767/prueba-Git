@@ -1,2 +1,2 @@
-nombre = "Julio"
-Print(f"Este es el segundo codigo de {nombre}")
+nombre = "Gabicita"
+print(f"Este es el segundo codigo de {nombre}")
